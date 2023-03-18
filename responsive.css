@@ -73,7 +73,16 @@
      .logo {
         left: 2rem;
      }
-     
+      .single-service:hover .service-desc {
+     bottom: 10%;
+     opacity: 1;
+     }
+     .service-desc h3 {
+         font-size: 17px;
+     }
+     .service-desc p {
+         font-size: 8px;
+     }
      
      
      
