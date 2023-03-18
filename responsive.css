@@ -1,0 +1,111 @@
+@media screen and 
+(max-width:770px) {
+  
+    .banner-text h1 {
+        font-size: 44px;
+    }
+
+    .banner-btn a {
+        display: block;
+        margin: 20px auto;
+    }
+    .title-text h1 {
+        font-size: 35px;
+    }
+    .features {
+        flex-basis: 100%;
+    }
+    .features-img {
+        flex-basis: 100%;
+    }
+    .features-img img {
+        width: 100%;
+    }
+    .single-service {
+        flex-basis: 100%;
+        margin-bottom: 30px;
+    }
+    .service-desc p {
+        font-size: 12px;
+    }
+    hr {
+        margin: 5px auto;
+    }
+    .single-service:hover .service-desc {
+        bottom:25% ;
+    }
+    .testimonial-col {
+        flex-basis: 100%;
+    }
+    .footer-left, .footer-right {
+        flex-basis: 41%;
+        font-size: 14px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .footer-img {
+        top: 25%;
+    }
+    .testimonial {
+        height: 44rem;
+       
+    }
+    #footer {
+        height: 34rem;
+        
+    }
+    .social-links {
+        text-align: center;
+        position: relative;
+        top: 50px;
+      }
+     #banner {
+        height: 40rem;
+        /* width: 100%; */
+        /* background: linear-gradient(rgba(0,0,0,0.5),#009688) ,url(img/banner.jpg) ; */
+        /* background-size: cover; */
+        /* background-position: center; */
+        
+     
+     }
+     .logo {
+        left: 2rem;
+     }
+     
+     
+     
+     
+
+     
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
